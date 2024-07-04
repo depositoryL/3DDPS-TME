@@ -57,6 +57,4 @@ At the start of training, the OUTPUT folder is immediately created to store some
 
 ### 4. About log files
 
-Will not cover the same operation last time, only then write the log, if many times debugging, remember to delete the previous log file
-
-Translated with DeepL.com (free version)
+Will not cover the same operation last time, only then write the log, if many times debugging, remember to delete the previous log file.
